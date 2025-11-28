@@ -1,6 +1,7 @@
 # Fire-extinguisher-robot-
 Fire Extinguisher Car Project: Autonomous Firefighting Vehicle
 ​(An educational project demonstrating basic robotics, sensor integration, and fire suppression)
+
 ​📝 Description
 ​This project details the creation of a Fire Extinguisher Car, a small-scale, autonomous robotic vehicle designed to detect and extinguish small fires using an onboard sensor system and a modified fire extinguisher mechanism. It serves as an excellent platform for learning about microcontroller programming (Arduino/Raspberry Pi), sensor data interpretation, and motor control.
 ​The goal is for the car to navigate a small arena, identify the location of a flame (representing a fire), approach it, and activate the fire suppression system.
